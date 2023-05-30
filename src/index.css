@@ -6,8 +6,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-/* this comment as i dont want distrub already written code which is generate by default when we run 
-npx create-react-app my-app command */
+/*npx create-react-app my-app command */
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
