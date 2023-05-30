@@ -14,7 +14,7 @@ function App() {
           This is main app.js file which will serve as main component in reactjs.
           or we can say it a starting point for to learning the react js.
         </p>
-
+{/* Changes is done in js file to add or we call new items in App.js to create new components */}
       </header>
     </div>
   );
