@@ -8,6 +8,8 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <App />
+    {/* here is App which is called in the index.js file which will load the data from the app.js
+    and will render the code from app.js file.  */}
   </React.StrictMode>
 );
 

@@ -6,17 +6,15 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h1>This is file which is created by running the command 
+          </h1>
+          <code>npx create-react-app my-app</code>
+              
         <p>
-          Edit <code>src/App.js</code> and save to reload.Lakhan
+          This is main app.js file which will serve as main component in reactjs.
+          or we can say it a starting point for to learning the react js.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+
       </header>
     </div>
   );
